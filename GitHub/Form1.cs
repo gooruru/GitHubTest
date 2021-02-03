@@ -12,6 +12,7 @@ namespace GitHub
     public partial class Form1 : Form
     {
         int test = 0;
+        int a = 0;
         public Form1()
         {
             InitializeComponent();
